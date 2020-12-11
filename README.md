@@ -1,10 +1,19 @@
-### Hi there 👋
+# Hi there 👋 My name is Konstancja Mielczarek
+I am a fourth year Information Technology Student at Silesian University in Poland. My specialization is web application design.
+
+# ⚡ Technologies I know
+- Technology: Java Enterprise Edition, Enterprise JavaBeans, Java Persistence API
+- Frameworks: JavaServer Faces, PhpSlim, Laravel
+- Database: MySQL
+- Libraries: Bootstrap, PrimeFaces, PHPMailer
+- Template engine: Twig, Blade
+- Programming Languages: Java, C++, PHP, CSS, JavaScript, HTML
+
+📫 How to reach me: 
+- 📚 LinkedIn: https://www.linkedin.com/in/konstancja-mielczarek/
+- 📚 GoldenLine: https://www.goldenline.pl/konstancja-mielczarek/
 
 <!--
-**KonstancjaMielczarek/KonstancjaMielczarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
