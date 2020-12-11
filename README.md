@@ -12,6 +12,7 @@ I am a fourth year Information Technology Student at Silesian University in Pola
 📫 How to reach me: 
 - 📚 LinkedIn: https://www.linkedin.com/in/konstancja-mielczarek/
 - 📚 GoldenLine: https://www.goldenline.pl/konstancja-mielczarek/
+- 😄 Portfolio: https://konstancjamielczarek.github.io/
 
 <!--
 - 🔭 I’m currently working on ...
