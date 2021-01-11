@@ -7,7 +7,7 @@ I am a fourth year Information Technology Student at Silesian University in Pola
 - Database: MySQL
 - Libraries: Bootstrap, PrimeFaces, PHPMailer
 - Template engine: Twig, Blade
-- Programming Languages: Java, C++, PHP, CSS, JavaScript, HTML
+- Programming Languages: Java, C++, PHP, CSS, JavaScript, HTML, SQL
 
 📫 How to reach me: 
 - 📚 LinkedIn: https://www.linkedin.com/in/konstancja-mielczarek/
