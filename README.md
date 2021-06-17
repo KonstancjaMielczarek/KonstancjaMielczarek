@@ -1,5 +1,5 @@
 # Hi there 👋 My name is Konstancja Mielczarek
-I am a fourth year Information Technology Student at Silesian University in Poland. My specialization is web application design.
+I just graduated Information Technology studies at Silesian University in Poland. My specialization is web application design.
 
 # ⚡ Technologies I know
 - Technology: Java Enterprise Edition, Enterprise JavaBeans, Java Persistence API
@@ -7,7 +7,8 @@ I am a fourth year Information Technology Student at Silesian University in Pola
 - Database: MySQL
 - Libraries: Bootstrap, PrimeFaces, PHPMailer
 - Template engine: Twig, Blade
-- Programming Languages: Java, C++, PHP, CSS, JavaScript, HTML, SQL
+- Programming Languages: Java, C++, PHP, CSS3, JavaScript, HTML5, SQL
+- Other: SASS (BEM methodology), Responsive Web Design
 
 📫 How to reach me: 
 - 📚 LinkedIn: https://www.linkedin.com/in/konstancja-mielczarek/
